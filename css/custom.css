@@ -1,0 +1,10 @@
+.slider-roofing-images {
+    background-image: url(../img/my-images/roofing.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 650px;
+
+}
+.text-color-1 {
+    color: white;
+}
